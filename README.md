@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sary, a passionate learner on an exciting journey to become a Data Analyst with a unique background in English Literature degree and has been working as Freelancer for 2 yr. When I'm not analyzing data, I'm probably learning something new or working on freelance gigs 🤷‍♀️.
 
-- 🌱 I'm constantly learning and exploring new tools and techniques in data analysis and visualization like **EXCEL, SQL, TABLEAU/POWER BI**.
+- 🌱 I'm constantly learning and exploring new tools and techniques in data analysis and visualization like **EXCEL, SQL, and TABLEAU/POWER BI.** 
 - 👯 Let's connect and collaborate on exciting data-driven projects !!
 
 
