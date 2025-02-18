@@ -4,6 +4,16 @@ I'm Sary, a passionate learner on an exciting journey to become a Data Analyst w
 - 🌱 I'm constantly learning and exploring new tools and techniques in data analysis and visualization like **EXCEL, SQL, and TABLEAU/POWER BI.** 
 - 👯 Let's connect and collaborate on exciting data-driven projects !!
 
+## Social :
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sari-saldi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sari-saldi" height="30" width="40" /></a>
+<a href="https://medium.com/@sarisaldi365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sarisaldi365" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@sarisaldi860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sarisaldi860" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **Sary332/Sary332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
