@@ -1,8 +1,22 @@
-## Hi there 👋
-I'm Sary, a passionate learner on an exciting journey to become a Data Analyst with a unique background in English Literature degree and has been working as Freelancer for 2 yr. When I'm not analyzing data, I'm probably learning something new or working on freelance gigs 🤷‍♀️.
-
-- 🌱 I'm constantly learning and exploring new tools and techniques in data analysis and visualization like **EXCEL, SQL, and TABLEAU/POWER BI.** 
-- 👯 Let's connect and collaborate on exciting data-driven projects !!
+<table>
+  <tr>
+    <td align="center" width="60%">
+      <h2>Hi, I'm Sary! 👋</h2>
+      <p>
+        A passionate learner on an exciting journey to become a Data Analyst with a unique background in English Literature. 
+        I have been working as a Freelancer for 2 years. When I'm not analyzing data, I'm probably learning something new 
+        or working on freelance gigs 🤷‍♀️.
+      </p>
+      <ul align="left">
+        <li>🌱 I'm constantly learning and exploring new tools and techniques in data analysis and visualization like <strong>EXCEL, SQL, and TABLEAU/POWER BI</strong>.</li>
+        <li>👯 Let's connect and collaborate on exciting data-driven projects !!</li>
+      </ul>
+    </td>
+    <td align="center" width="40%">
+      <img alt="Coding" width="300" src="https://camo.githubusercontent.com/b8741fc5a5bc4415036edfb97fdbe367f22d66d8c501effd1c7c69aa72834818/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
